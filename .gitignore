@@ -1,0 +1,14 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/engageai.db
+backend/dataset.csv
+
+# Node
+frontend/node_modules/
+frontend/build/
+
+# General
+.env
+.DS_Store
