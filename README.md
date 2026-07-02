@@ -1,6 +1,6 @@
 # EngageAI v3
 
-**Content Engagement Rate Predictor** — A production-grade web application that estimates social media engagement rate (%) before posting, using a real XGBoost ML model with NLP analysis, seasonal intelligence, and trend detection.
+**Content Engagement Rate Predictor** — A Full stack web application that estimates social media engagement rate (%) before posting, using a real XGBoost ML model with NLP analysis, seasonal intelligence, and trend detection.
 
 **Live Demo** - https://engageai-frontend-gamma.vercel.app/
 
